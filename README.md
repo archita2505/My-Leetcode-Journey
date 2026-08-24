@@ -31,4 +31,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
+## Math
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1927-sum-game) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
