@@ -4,16 +4,18 @@ class Solution {
         if((long)m*k > n){
             return -1;
         }
+
         int low = Integer.MAX_VALUE;
         int high = Integer.MIN_VALUE;
+
         for(int day : bloomDay){
-            high = Math.max(high,day);
-            low = Math.min(low,day);
+            low = Math.min(day,low);
+            high = Math.max(day,high);
         }
         int ans = -1;
-        while(low <= high){
+        while(low<=high){
             int mid = low + (high-low)/2;
-            if(canBloom(bloomDay,m,k,mid)){
+            if(canMake(bloomDay,m,k,mid)){
                 ans = mid;
                 high = mid-1;
             }
@@ -24,11 +26,11 @@ class Solution {
         return ans;
     }
 
-    private boolean canBloom(int[] bloomDay, int m, int k, int day){
-        int count = 0;
+    private boolean canMake(int[] bloomDay,int m, int k, int day ){
         int bouquets = 0;
-        for(int bloom : bloomDay){
-            if(bloom <= day){
+        int count = 0;
+        for(int bloom:bloomDay){
+            if(bloom<=day){
                 count++;
                 if(count == k){
                     bouquets++;
