@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/archita2505/My-Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [1927-sum-game](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/archita2505/My-Leetcode-Journey/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/archita2505/My-Leetcode-Journey/tree/master/3871-count-commas-in-range-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/archita2505/My-Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/archita2505/My-Leetcode-Journey/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/archita2505/My-Leetcode-Journey/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/archita2505/My-Leetcode-Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/archita2505/My-Leetcode-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
