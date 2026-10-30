@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
@@ -38,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/archita2505/My-Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/archita2505/My-Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/archita2505/My-Leetcode-Journey/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
