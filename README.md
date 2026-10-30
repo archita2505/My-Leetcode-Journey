@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/archita2505/My-Leetcode-Journey/tree/master/0344-reverse-string) |
 | [1927-sum-game](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/archita2505/My-Leetcode-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/archita2505/My-Leetcode-Journey/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
